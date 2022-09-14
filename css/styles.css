@@ -247,13 +247,13 @@ margin-bottom: 35px;
 	content:url(".../images/service/01.svg");
   }
   .service_block_item:hover .box {
-	content:url("../images/service/11.svg");
+	content:url(".../images/service/11.svg");
   }
   .shop {
-	content:url("./images/service/02.svg");
+	content:url(".../images/service/02.svg");
   }
   .service_block_item:hover .shop {
-	content:url("../images/service/22.svg");
+	content:url(".../images/service/22.svg");
   }
   .book {
 	content:url(".../images/service/03.svg");
@@ -285,7 +285,7 @@ margin-bottom: 35px;
 	.main_block {
 	
 		height: 793px;
-		background: url(../images/main/cover.jpg) no-repeat right;
+		background: url(.../images/main/cover.jpg) no-repeat right;
 	
 	}
 
