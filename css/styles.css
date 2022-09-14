@@ -244,22 +244,22 @@ margin-bottom: 35px;
 	color: white;
   }
   .box {
-	content:url(".../images/service/01.svg");
+	content: url("../images/service/01.svg");
   }
   .service_block_item:hover .box {
-	content:url(".../images/service/11.svg");
+	content: url(".../images/service/11.svg");
   }
   .shop {
-	content:url(".../images/service/02.svg");
+	content: url("./images/service/02.svg");
   }
   .service_block_item:hover .shop {
-	content:url(".../images/service/22.svg");
+	content: url(".../images/service/22.svg");
   }
   .book {
-	content:url(".../images/service/03.svg");
+	content: url("/images/service/03.svg");
   }
   .service_block_item:hover .book {
-	content:url(".../images/service/33.svg");
+	content: url(".../images/service/33.svg");
   }
 
 
