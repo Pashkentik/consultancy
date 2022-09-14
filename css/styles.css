@@ -243,7 +243,15 @@ margin-bottom: 35px;
 .service_block_item:hover .service_text,.service_block_item:hover .service_title {
 	color: white;
 }
-   
+     .service_block_item:hover .box{
+	filter: brightness(0) invert(1);
+  }
+  .service_block_item:hover .shop{
+	filter: brightness(0) invert(1);
+  }
+  .service_block_item:hover .book{
+	filter: brightness(0) invert(1);
+  }
 
 
 
