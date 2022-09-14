@@ -115,7 +115,7 @@ gap: 21px;
 }
 .main_block {
 	height: 793px;
-	background: url(./images/main/cover.jpg) no-repeat;
+	background: url(../images/main/cover.jpg) no-repeat;
 	background-size: 100%;
 	position: absolute;
 	top:0;
@@ -243,16 +243,7 @@ margin-bottom: 35px;
 .service_block_item:hover .service_text,.service_block_item:hover .service_title {
 	color: white;
 }
-   .service_block_item:hover .box {
-	content:url("/images/service/11.svg");
-  }
-  .service_block_item:hover .shop {
-	content:url("/images/service/22.svg");
-  }
-  .service_block_item:hover .book {
-	content:url("/images/service/33.svg");
-  }
-
+   
 
 
 
