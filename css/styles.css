@@ -245,13 +245,13 @@ margin-bottom: 35px;
 }
    
 	.service_block_item:hover .box {
-	content:url("./images/service/11.svg");
+	content:url("/images/service/11.svg");
   }
   	.service_block_item:hover .shop {
-	content:url("./images/service/22.svg");
+	content:url("/images/service/22.svg");
   }
   	.service_block_item:hover .book {
-	content:url("./images/service/33.svg");
+	content:url("/images/service/33.svg");
   }
 
 
