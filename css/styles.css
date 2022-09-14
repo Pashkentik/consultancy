@@ -244,24 +244,6 @@ margin-bottom: 35px;
 	color: white;
 }
    
- .service_block_item:hover .box{
-		filter: brightness(0) invert(1);
-  }
-  .service_block_item:hover .shop {
-	filter: brightness(0) invert(1);
-  }
-  .service_block_item:hover .book {
-	filter: brightness(0) invert(1);
-  }
-
-
-
-
-
-
-
-
-
 
 
 
