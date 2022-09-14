@@ -115,7 +115,7 @@ gap: 21px;
 }
 .main_block {
 	height: 793px;
-	background: url(./images/main/cover.jpg) no-repeat;
+	background: url(../images/main/cover.jpg) no-repeat;
 	background-size: 100%;
 	position: absolute;
 	top:0;
