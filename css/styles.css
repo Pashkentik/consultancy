@@ -244,14 +244,14 @@ margin-bottom: 35px;
 	color: white;
 }
    
-	.service_block_item:hover .box {
-	content:url(".../images/service/11.svg");
+ .service_block_item:hover .box{
+		filter: brightness(0) invert(1);
   }
-  	.service_block_item:hover .shop {
-	content:url(".../images/service/22.svg");
+  .service_block_item:hover .shop {
+	filter: brightness(0) invert(1);
   }
-  	.service_block_item:hover .book {
-	content:url(".../images/service/33.svg");
+  .service_block_item:hover .book {
+	filter: brightness(0) invert(1);
   }
 
 
